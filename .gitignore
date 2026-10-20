@@ -1,0 +1,10 @@
+# Éditeurs
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.log
+*.tmp
